@@ -1,0 +1,7 @@
+{"input": ["brown", "black"], "expect": 10, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["blue", "grey"], "expect": 68, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["yellow", "violet"], "expect": 47, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["white", "red"], "expect": 92, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["orange", "orange"], "expect": 33, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["green", "brown", "orange"], "expect": 51, "task": "resistor-color-duo", "lang": "python"}
+{"input": ["black", "brown"], "expect": 1, "task": "resistor-color-duo", "lang": "python"}
